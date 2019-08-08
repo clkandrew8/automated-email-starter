@@ -1,14 +1,14 @@
-README AUTOMATED EMAIL WORKFLOW
+# AUTOMATED EMAIL WORKFLOW STARTER
 
-***********************
-        START
+## View the Google Doc here: https://docs.google.com/document/d/1QFj0HxJlljEfWX3LmUQW3OYQfoudO9_QuPEXMyrucyI/edit?usp=sharing
+
+## START
 1. Install NPM and Node.js
 2. Type "npm install" to download the required dependencies.
 3. Run "npm run generate" - this will setup the file structure for the project.
 4. Run "npm run build" - this will build everything and start the watch script for live editing.
 
-**********************
-        NOTES
+## EXTRA NOTES
 1. Do not work directly in the CSS or HTML files. The script
 is not set to watch those, and will ignore any changes made. 
 Update only in .pug files or .scss files.
