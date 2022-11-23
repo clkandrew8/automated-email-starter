@@ -16,7 +16,7 @@
   "author": "Andrew Clark",
   "license": "ISC",
   "devDependencies": {
-    "browser-sync": "^2.26.7",
+    "browser-sync": "^2.27.10",
     "gulp": "^4.0.2",
     "gulp-inline-css": "^3.3.2",
     "gulp-pug": "^4.0.1",
